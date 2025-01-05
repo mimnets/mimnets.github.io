@@ -14,5 +14,5 @@ I hope you like it!
 
 # Here is a test of adding a PDF
 
-... you can ["target='_blank'" get the PDF](/assets/docs/mydoc.pdf) directly.
+... you can [get the PDF](/assets/docs/mydoc.pdf){:target="_blank" rel="noopener"} directly.
 

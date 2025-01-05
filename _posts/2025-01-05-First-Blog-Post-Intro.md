@@ -1,8 +1,8 @@
 ---
 title: First blog pst into
 date: 2025-01-05 12:53:05 +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+categories: [Blog_Post]
+tags: [into]     # TAG names should always be lowercase
 description: Short summary of the post.
 ---
 
@@ -11,3 +11,8 @@ description: Short summary of the post.
 **Hello world**, this is my first Jekyll blog post.
 
 I hope you like it!
+
+# Here is a test of adding a PDF
+
+... you can [get the PDF](/assets/docs/mydoc.pdf) directly.
+

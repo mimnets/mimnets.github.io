@@ -1,13 +1,10 @@
 ---
-YAML front matter
----
----
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Test
+permalink: /test/test/
 ---
 
-## About
+## Test
 
 WebJeda is a web designing company
 .

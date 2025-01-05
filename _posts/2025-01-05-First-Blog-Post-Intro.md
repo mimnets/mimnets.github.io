@@ -14,5 +14,5 @@ I hope you like it!
 
 # Here is a test of adding a PDF
 
-... you can [get the PDF](/assets/docs/mydoc.pdf) directly.
+... you can ["target='_blank'" get the PDF](/assets/docs/mydoc.pdf) directly.
 

@@ -1,7 +1,7 @@
 ---
 title: IELTS Academic Complete Overview
 date: 2025-01-06 06:53:05 +/-TTTT
-categories: [Learn][English]
+categories: [Learn]
 tags: [learn]     # TAG names should always be lowercase
 description: IELTS Academic Complete Overview.
 ---
@@ -36,47 +36,48 @@ The IELTS Academic Exam consists of four sections:
   - Matching headings/features
   - Sentence/summary completion
   - Diagram labeling
--Scoring: Band score from 1 to 9.
+- Scoring: Band score from 1 to 9.
 ## 3. Writing (60 minutes)
-Task 1:
-Type: Describing visual data (graphs, charts, tables, diagrams).
-Word Limit: At least 150 words.
-Skills Assessed: Summarizing and explaining data, identifying trends, and making comparisons.
-Task 2:
-Type: Essay writing (argumentative or discursive).
-Word Limit: At least 250 words.
-Skills Assessed: Presenting an argument, providing examples, supporting ideas, and maintaining a clear structure.
-Scoring: Band score from 1 to 9.
+- Task 1:
+  - Type: Describing visual data (graphs, charts, tables, diagrams).
+  - Word Limit: At least 150 words.
+  - Skills Assessed: Summarizing and explaining data, identifying trends, and making comparisons.
+- Task 2:
+  - Type: Essay writing (argumentative or discursive).
+  - Word Limit: At least 250 words.
+  - Skills Assessed: Presenting an argument, providing examples, supporting ideas, and maintaining a clear structure.
+- Scoring: Band score from 1 to 9.
 ## 4. Speaking (11–14 minutes)
-Format: Face-to-face interview with an examiner.
-Structure:
-Part 1: Introduction and general questions about yourself.
-Part 2: Individual long-turn (a short talk based on a topic card with 1 minute to prepare and 2 minutes to speak).
-Part 3: Discussion (follow-up questions based on Part 2, often more abstract).
-Scoring: Band score from 1 to 9.
-Scoring System
-Each section is scored on a Band Scale of 1 to 9.
-The Overall Band Score is the average of the four section scores, rounded to the nearest half or whole band.
-Purpose
-The IELTS Academic is aimed at:
+- Format: Face-to-face interview with an examiner.
+- Structure:
+  - Part 1: Introduction and general questions about yourself.
+  - Part 2: Individual long-turn (a short talk based on a topic card with 1 minute to prepare and 2 minutes to speak).
+  - Part 3: Discussion (follow-up questions based on Part 2, often more abstract).
+- Scoring: Band score from 1 to 9.
+## Scoring System
+  - Each section is scored on a Band Scale of 1 to 9.
+  - The Overall Band Score is the average of the four section scores, rounded to the nearest half or whole band.
+## Purpose
+- The IELTS Academic is aimed at:
+  1. University Admission: For undergraduate or postgraduate studies.
+  2. Professional Registration: For licensing in fields like medicine or engineering.
+  3.  Immigration: In certain countries requiring proof of English proficiency.
+##  Registration
+- Fee: Varies by country; typically around $200–250 USD.
+- Registration: Online via the official IELTS website or through local test centers.
+- Frequency: Offered multiple times per month.
+## Preparation Tips
+1.  Familiarize with the Format: Practice sample papers and past tests.
+2.  Time Management: Learn to manage time effectively during each section.
+3.  Enhance Vocabulary: Focus on academic words and phrases.
+4.  Improve Writing: Practice organizing essays with clear introductions, body paragraphs, and conclusions.
+5.  Practice Speaking: Speak fluently, clearly, and with confidence.
+6.  Listen Actively: Practice understanding different accents (e.g., British, American, Australian).
+# Key Differences Between Academic and General Training IELTS
+| Aspect      | Academic | General Training     |
+| :---        |    :----:   |          ---: |
+| Purpose      | For higher education and professional settings       | For work, migration, or non-academic training   |
+| Reading Section   | More complex, academic-oriented texts        | Easier, general interest texts    |
+| Writing Task 1 | Visual data analysis (charts/graphs) | Writing a letter |
 
-University Admission: For undergraduate or postgraduate studies.
-Professional Registration: For licensing in fields like medicine or engineering.
-Immigration: In certain countries requiring proof of English proficiency.
-Registration
-Fee: Varies by country; typically around $200–250 USD.
-Registration: Online via the official IELTS website or through local test centers.
-Frequency: Offered multiple times per month.
-Preparation Tips
-Familiarize with the Format: Practice sample papers and past tests.
-Time Management: Learn to manage time effectively during each section.
-Enhance Vocabulary: Focus on academic words and phrases.
-Improve Writing: Practice organizing essays with clear introductions, body paragraphs, and conclusions.
-Practice Speaking: Speak fluently, clearly, and with confidence.
-Listen Actively: Practice understanding different accents (e.g., British, American, Australian).
-Key Differences Between Academic and General Training IELTS
-Aspect	Academic	General Training
-Purpose	For higher education and professional settings	For work, migration, or non-academic training
-Reading Section	More complex, academic-oriented texts	Easier, general interest texts
-Writing Task 1	Visual data analysis (charts/graphs)	Writing a letter
 Let me know if you'd like guidance or resources for preparation!

@@ -10,6 +10,7 @@ order: 5
 2. [Foldables](/assets/books/new-book/Foldables/index.html){:target="_blank" rel="noopener"}
 3. [OxFord-English-Grammar](/assets/books/new-book/Oxford-English-Grammar/index.html){:target="_blank" rel="noopener"}
 4. [OxFord-English-Grammar](https://docs.google.com/presentation/d/12JMm7dvuOaTzP561IdGnr0k_R94Cfxxar1Ud4_SmDQY/edit?usp=sharing){:target="_blank" rel="noopener"}
+5. [Slides](/assets/books/slides){:target="_blank" rel="noopener"}
 
 
 <div class="responsive-embed">

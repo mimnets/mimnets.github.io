@@ -15,15 +15,9 @@ order: 5
 
 <iframe src="https://docs.google.com/presentation/d/1VL3kqho53lvDiThDIQfcoYM3xENIa7S-LeGQJF3i8A4/embed?start=true&loop=true&delayms=3000" 
         frameborder="0" 
-        width="100%" 
-        height="100%" 
+        width="500px" 
+        height="600px" 
         allowfullscreen="true" 
         mozallowfullscreen="true" 
         webkitallowfullscreen="true">
-</iframe>
-
-<iframe src="/assets/books/new-book/Oxford-Grammar.pdf" 
-        width="800" 
-        height="600" 
-        frameborder="0">
 </iframe>

@@ -15,7 +15,7 @@ order: 5
 
 <iframe src="https://docs.google.com/presentation/d/1VL3kqho53lvDiThDIQfcoYM3xENIa7S-LeGQJF3i8A4/embed?start=true&loop=true&delayms=3000" 
         frameborder="0" 
-        width="500px" 
+        width="400px" 
         height="600px" 
         allowfullscreen="true" 
         mozallowfullscreen="true" 

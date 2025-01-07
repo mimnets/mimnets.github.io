@@ -75,9 +75,15 @@ The IELTS Academic Exam consists of four sections:
 6.  Listen Actively: Practice understanding different accents (e.g., British, American, Australian).
 # Key Differences Between Academic and General Training IELTS
 | Aspect | Academic | General Training |
-| :---        |    :----:   |     ---: |
+| ---    | ---   |     --- |
 | Purpose      | For higher education and professional settings       | For work, migration, or non-academic training   |
 | Reading Section   | More complex, academic-oriented texts        | Easier, general interest texts    |
 | Writing Task 1 | Visual data analysis (charts/graphs) | Writing a letter |
 
 Let me know if you'd like guidance or resources for preparation!
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |

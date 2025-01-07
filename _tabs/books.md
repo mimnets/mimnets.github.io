@@ -11,9 +11,9 @@ order: 5
 3. [OxFord-English-Grammar](/assets/books/new-book/Oxford-English-Grammar/index.html){:target="_blank" rel="noopener"}
 4. [OxFord-English-Grammar](https://docs.google.com/presentation/d/12JMm7dvuOaTzP561IdGnr0k_R94Cfxxar1Ud4_SmDQY/edit?usp=sharing){:target="_blank" rel="noopener"}
 
-<iframe src="https://docs.google.com/presentation/d/e/12JMm7dvuOaTzP561IdGnr0k_R94Cfxxar1Ud4_SmDQY/embed?start=true&loop=true&delayms=3000" 
+<iframe src="https://docs.google.com/presentation/d/12JMm7dvuOaTzP561IdGnr0k_R94Cfxxar1Ud4_SmDQY/embed?start=true&loop=true&delayms=3000" 
         frameborder="0" 
-        width="960" 
+        width="900" 
         height="569" 
         allowfullscreen="true" 
         mozallowfullscreen="true" 

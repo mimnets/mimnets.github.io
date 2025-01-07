@@ -80,12 +80,17 @@ The IELTS Academic Exam consists of four sections:
 | Reading Section   | More complex, academic-oriented texts        | Easier, general interest texts    |
 | Writing Task 1 | Visual data analysis (charts/graphs) | Writing a letter |
 
+|  Aspect | Academic  | General Training  |
+|---|---|---|
+| Purpose  | For higher education and professional settings  | For work, migration, or non-academic training  |
+| Reading Section  | More complex, academic-oriented texts  | Easier, general interest texts  |
+| Writing Task 1  | Visual data analysis (charts/graphs)  | Writing a letter  |
 Let me know if you'd like guidance or resources for preparation!
 
-#Citations:
-[1] https://www.ieltsadvantage.com/ielts-syllabus/
-[2] https://www.idp.com/singapore/ielts/test-format/
-[3] https://global-exam.com/blog/en/ielts-academic-overview-structure-and-sample-questions/
-[4] https://www.manhattanreview.com/ielts-sections/
-[5] https://ielts.org/take-a-test/test-types/ielts-academic-test
+# Citations:
+1. https://www.ieltsadvantage.com/ielts-syllabus/
+2. https://www.idp.com/singapore/ielts/test-format/
+3. https://global-exam.com/blog/en/ielts-academic-overview-structure-and-sample-questions/
+4. https://www.manhattanreview.com/ielts-sections/
+5. https://ielts.org/take-a-test/test-types/ielts-academic-test
 

@@ -13,7 +13,7 @@ order: 5
 5. [Slides](/assets/books/slides/1.html){:target="_blank" rel="noopener"}
 
 
-<iframe src="https://docs.google.com/presentation/d/1VL3kqho53lvDiThDIQfcoYM3xENIa7S-LeGQJF3i8A4/embed?start=true&loop=true&delayms=3000" 
+<iframe src="https://docs.google.com/presentation/d/1jY_sFURS3q4MwhOMcQ8yFgR1jxC2vSCrRhlVHkbsFDg/embed?start=true&loop=true&delayms=3000" 
         frameborder="0" 
         width="400px" 
         height="600px" 

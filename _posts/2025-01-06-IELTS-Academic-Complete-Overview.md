@@ -82,8 +82,10 @@ The IELTS Academic Exam consists of four sections:
 
 Let me know if you'd like guidance or resources for preparation!
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+#Citations:
+[1] https://www.ieltsadvantage.com/ielts-syllabus/
+[2] https://www.idp.com/singapore/ielts/test-format/
+[3] https://global-exam.com/blog/en/ielts-academic-overview-structure-and-sample-questions/
+[4] https://www.manhattanreview.com/ielts-sections/
+[5] https://ielts.org/take-a-test/test-types/ielts-academic-test
+

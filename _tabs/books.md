@@ -13,9 +13,11 @@ order: 5
 5. [Slides](/assets/books/slides/1.html){:target="_blank" rel="noopener"}
 
 
-<div class="responsive-embed">
-    <iframe src="https://docs.google.com/presentation/d/e/1VL3kqho53lvDiThDIQfcoYM3xENIa7S-LeGQJF3i8A4/embed?start=true&loop=true&delayms=3000" 
-            frameborder="0" 
-            allowfullscreen="true">
-    </iframe>
-</div>
+<iframe src="https://docs.google.com/presentation/d/e/1VL3kqho53lvDiThDIQfcoYM3xENIa7S-LeGQJF3i8A4/embed?start=true&loop=true&delayms=3000" 
+        frameborder="0" 
+        width="100%" 
+        height="100%" 
+        allowfullscreen="true" 
+        mozallowfullscreen="true" 
+        webkitallowfullscreen="true">
+</iframe>

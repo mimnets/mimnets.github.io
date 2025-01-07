@@ -13,7 +13,7 @@ order: 5
 5. [Slides](/assets/books/slides/1.html){:target="_blank" rel="noopener"}
 
 ## Oxford Grammar Book
-<iframe src="https://docs.google.com/presentation/d/1jY_sFURS3q4MwhOMcQ8yFgR1jxC2vSCrRhlVHkbsFDg/embed?start=true&loop=true&delayms=3000" 
+<iframe src="https://docs.google.com/presentation/d/1jY_sFURS3q4MwhOMcQ8yFgR1jxC2vSCrRhlVHkbsFDg/embed?start=false&loop=true&delayms=3000" 
         frameborder="0" 
         width="330px" 
         height="550px" 

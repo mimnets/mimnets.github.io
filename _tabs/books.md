@@ -15,7 +15,7 @@ order: 5
 ## Oxford Grammar Book
 <iframe src="https://docs.google.com/presentation/d/1jY_sFURS3q4MwhOMcQ8yFgR1jxC2vSCrRhlVHkbsFDg/embed?start=true&loop=true&delayms=3000" 
         frameborder="0" 
-        width="380px" 
+        width="350px" 
         height="600px" 
         allowfullscreen="true" 
         mozallowfullscreen="true" 

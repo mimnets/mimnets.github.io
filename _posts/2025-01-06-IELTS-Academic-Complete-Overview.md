@@ -81,7 +81,7 @@ The IELTS Academic Exam consists of four sections:
 | Writing Task 1 | Visual data analysis (charts/graphs) | Writing a letter |
 
 |  Aspect | Academic  | General Training  |
-|---|---|---|
+|------|------|------|
 | Purpose  | For higher education and professional settings  | For work, migration, or non-academic training  |
 | Reading Section  | More complex, academic-oriented texts  | Easier, general interest texts  |
 | Writing Task 1  | Visual data analysis (charts/graphs)  | Writing a letter  |

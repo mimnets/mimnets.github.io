@@ -27,3 +27,12 @@ order: 5
         mozallowfullscreen="true" 
         webkitallowfullscreen="true">
 </iframe>
+
+## Static File Test
+
+<iframe src="/assets/docs/mydoc.pdf" 
+        width="800" 
+        height="600" 
+        frameborder="0">
+</iframe>
+

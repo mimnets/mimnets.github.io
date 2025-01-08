@@ -7,10 +7,10 @@ order: 5
 
 # Books List For Learning English
 
-## Oxford Grammar Book
+## [Oxford Grammar Book](https://docs.google.com/presentation/d/1jY_sFURS3q4MwhOMcQ8yFgR1jxC2vSCrRhlVHkbsFDg){:target="_blank" rel="noopener"}
 <iframe src="https://docs.google.com/presentation/d/1jY_sFURS3q4MwhOMcQ8yFgR1jxC2vSCrRhlVHkbsFDg/embed?start=false&loop=true&delayms=3000" 
         frameborder="0" 
-        width="350px" 
+        width="380px" 
         height="550px" 
         allowfullscreen="true" 
         mozallowfullscreen="true" 
@@ -18,10 +18,10 @@ order: 5
 </iframe>
 
 
-## Vocabulary Builder
+## [Vocabulary Builder](https://docs.google.com/presentation/d/1iIIDfz4_rF3jRbh2Ssnwtv1ix8churfRpdsium47dm0){:target="_blank" rel="noopener"}
 <iframe src="https://docs.google.com/presentation/d/1iIIDfz4_rF3jRbh2Ssnwtv1ix8churfRpdsium47dm0/embed?start=false&loop=true&delayms=3000" 
         frameborder="0" 
-        width="350px" 
+        width="380px" 
         height="550px" 
         allowfullscreen="true" 
         mozallowfullscreen="true" 

@@ -1,9 +1,9 @@
 ---
-title: First blog pst into
+title: OneDrive and Excel Sync problem with solutions
 date: 2025-01-05 12:53:05 +/-TTTT
-categories: [Blog_Post]
-tags: [into]     # TAG names should always be lowercase
-description: Short summary of the post.
+categories: [OneDrive Excel]
+tags: [onedrive excel]     # TAG names should always be lowercase
+description: If you face that onedrive is not syncing properly..
 ---
 
 # Kindly please try below suggested actions:

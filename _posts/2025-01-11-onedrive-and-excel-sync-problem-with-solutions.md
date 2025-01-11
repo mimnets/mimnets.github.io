@@ -1,8 +1,8 @@
 ---
 title: OneDrive and Excel Sync problem with solutions
 date: 2025-01-05 12:53:05 +/-TTTT
-categories: [OneDrive Excel]
-tags: [onedrive excel]     # TAG names should always be lowercase
+categories: ["OneDrive", "Excel"]
+tags: ["onedrive", "excel"]     # TAG names should always be lowercase
 description: If you face that onedrive is not syncing properly..
 ---
 

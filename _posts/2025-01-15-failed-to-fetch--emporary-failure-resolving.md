@@ -6,8 +6,8 @@ tags: ["ubuntu", "linux"]     # TAG names should always be lowercase
 description: The error message you're encountering, "Temporary failure resolving 'iad-ad-3.clouds.ports.ubuntu.com'," indicates a DNS resolution issue.
 ---
 
-## Failed to fetch http://iad-ad-3.clouds.ports.ubuntu.com/ubuntu-ports/pool/main/n/network-manager-pptp/network-manager-pptp_1.2.8-2_arm64.deb  Temporary failure resolving 'iad-ad-3.clouds.ports.ubuntu.com'
- - On my ubuntu 20:04 server hosted on OCI Cloud
+- Failed to fetch http://iad-ad-3.clouds.ports.ubuntu.com/ubuntu-ports/pool/main/n/network-manager-pptp/network-manager-pptp_1.2.8-2_arm64.deb  Temporary failure resolving 'iad-ad-3.clouds.ports.ubuntu.com'
+  - On my ubuntu 20:04 server hosted on OCI Cloud
 
 The error message you're encountering, "Temporary failure resolving 'iad-ad-3.clouds.ports.ubuntu.com'," indicates a DNS resolution issue. This means your system is unable to resolve the domain name into an IP address, which is necessary for accessing the repository and downloading packages. Here are some steps you can take to troubleshoot and potentially resolve this issue on Ubuntu 20.04:
 1. Check Internet Connection
@@ -27,9 +27,11 @@ nameserver 8.8.8.8
 nameserver 1.1.1.1
 ```
 
-```
 Restart Networking Service: After changing DNS settings, restart the networking service.
 ```
+sudo systemctl restart networking
+```
+
 3. Check for Firewall or Proxy Issues
   - Ensure that your firewall or proxy settings are not blocking the connection to the Ubuntu repositories.
 1. Try a Different Repository

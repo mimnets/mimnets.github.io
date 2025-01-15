@@ -1,7 +1,7 @@
 ---
 title: Failed to fetch....Temporary failure resolving 'iad-ad-3.clouds.ports.ubuntu.com'
 date: 2025-01-15 07:12:05 +/-TTTT
-categories: ["Tech"]
+categories: ["Tech", "Solutions"]
 tags: ["ubuntu", "linux"]     # TAG names should always be lowercase
 description: The error message you're encountering, "Temporary failure resolving 'iad-ad-3.clouds.ports.ubuntu.com'," indicates a DNS resolution issue.
 ---

@@ -1,7 +1,7 @@
 ---
 title: OneDrive and Excel Sync problem with solutions
 date: 2025-01-11 10:30:05 +/-TTTT
-categories: ["OneDrive", "Excel"]
+categories: ["Tech", "Solutions"]
 tags: ["onedrive", "excel"]     # TAG names should always be lowercase
 description: If you face that onedrive is not syncing properly..
 ---

@@ -31,25 +31,25 @@ sudo usermod -aG docker $USER
 Log out and back in for this to take effect.
 ```
 1. Install Portainer
-- Run Portainer Using Docker:
+Run Portainer Using Docker:
 ```
 docker volume create portainer_data
 docker run -d -p 8000:8000 -p 9443:9443 --name portainer \
     --restart=always -v /var/run/docker.sock:/var/run/docker.sock \
     -v portainer_data:/data portainer/portainer-ce:latest
 ```
-- Access Portainer:
+Access Portainer:
 
 Open a browser and go to https://<your-server-ip>:9443.
 Follow the setup process to create an admin user.
 
-4. Set Up Nextcloud Using Docker Compose in Portainer
-- Step 1: Create a Docker Compose Stack
+1. Set Up Nextcloud Using Docker Compose in Portainer
+Step 1: Create a Docker Compose Stack
 Log in to Portainer.
 Navigate to Stacks > Add Stack.
 Name your stack, e.g., nextcloud-stack.
 
-- Step 2: Add the Compose Configuration
+Step 2: Add the Compose Configuration
 Paste the following Docker Compose configuration in the editor:
 ```
 version: '3.8'
@@ -84,11 +84,14 @@ services:
 volumes:
   nextcloud_data:
   db_data:
+  
+  ```
 Replace your_password and your_root_password with secure passwords.
-```
-- Step 3: Deploy the Stack
+
+Step 3: Deploy the Stack
 Click Deploy the Stack.
 Portainer will pull the required images and start the containers.
+
 1. Access Nextcloud
 Open your browser and navigate to http://<your-server-ip>:8080.
 

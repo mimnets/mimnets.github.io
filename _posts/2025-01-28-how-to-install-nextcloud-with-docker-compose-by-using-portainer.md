@@ -93,10 +93,12 @@ Portainer will pull the required images and start the containers.
 Open your browser and navigate to http://<your-server-ip>:8080.
 
 Complete the Nextcloud setup wizard:
+```
 Database host: db
 Database name: nextcloud
 Database user: nextclouduser
 Database password: your_password
+```
 6. Secure with HTTPS (Optional)
 
 To secure Nextcloud, you can set up a reverse proxy with Nginx or Traefik using Let's Encrypt. Let me know if you want guidance on that!

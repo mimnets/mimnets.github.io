@@ -6,7 +6,10 @@ tags: ["MingW", "GCC Compiler", "Windows 11"]     # TAG names should always be l
 description: How to install mingw on windows 10 and windows 11
 ---
 
-1. [Download MingW](/assets/downloads/mingw.exe){:target="_blank" rel="noopener"}
+1. [Download MingW](/assets/downloads/mingw.exe){:target="_blank" rel="noopener"} and install with the location:
+  ```
+  C:\MinGW
+  ```
 2. Click Start or Search on your PC: 
    ```
    About your PC
@@ -33,15 +36,15 @@ description: How to install mingw on windows 10 and windows 11
   Or
   Select Path and Click Edit
   ```
-6. Clcik New and paste:
+1. Clcik New and paste:
   ```
   C:\MinGW\bin
   ``` 
-7. Open CMD and type:
+1. Open CMD and type:
   ```
   gcc --version
   ```
-8. You will see like this:
+1. You will see like this:
   ```
   gcc (MinGW.org GCC-6.3.0-1) 6.3.0
 Copyright (C) 2016 Free Software Foundation, Inc.
